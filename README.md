@@ -1,2 +1,2 @@
 # Technical-task
-Some description.
+Some description
