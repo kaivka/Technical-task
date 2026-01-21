@@ -1,0 +1,23 @@
+## Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+## .NET
+bin/
+obj/
+.vs/
+*.user
+*.userprefs
+*.suo
+
+## Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+## OS
+.DS_Store
+Thumbs.db
